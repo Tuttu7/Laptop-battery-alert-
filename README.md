@@ -3,15 +3,15 @@
 
 > acpi - Shows battery status and other ACPI information
 
-Option  | Desciption
-------- | ----------
--b      |  show battery information
+|Option  | Desciption|
+-------  | -----------
+-b       |  show battery information
 
 > speaker-test generates a tone that can be used to test the speakers of a computer.
 
-Option  | Desciption
-------- | ----------
--t      | -t pink means use pink noise (default).
+|Option  | Desciption|
+-------  | ----------
+-t       | -t pink means use pink noise (default).
               
 
 
