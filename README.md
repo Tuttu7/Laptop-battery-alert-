@@ -2,3 +2,6 @@
 ```
 
 **acpi - Shows battery status and other ACPI information**
+
+
+**This is bold text**
