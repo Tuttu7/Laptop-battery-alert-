@@ -5,16 +5,14 @@
 
 Option  | Desciption
 ------- | ----------
-
--b      | --battery  show battery information
+-b      |  show battery information
 
 > speaker-test generates a tone that can be used to test the speakers of a computer.
 
 Option  | Desciption
 ------- | ----------
-
--t      | --test pink|sine|wav
-              -t pink means use pink noise (default).
+-t      | -t pink means use pink noise (default).
+              
 
 
 
